@@ -1,4 +1,4 @@
 version: R2023b
 publish: true
 type: demo
-world: spot.wbt
+world: spot.proto
